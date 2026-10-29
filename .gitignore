@@ -1,0 +1,28 @@
+# Next.js / Node
+node_modules/
+.next/
+out/
+build/
+dist/
+*.tsbuildinfo
+*.log
+
+# Environment variables
+.env*.local
+
+# Python / FastAPI
+backend/venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# System and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
